@@ -1,9 +1,10 @@
-# path-analyzer
-Analyze path from a avimeca file
+# Tracé des vecteurs vitesse et variation de vitesse à partir des rélevés de position
+## Activité de Physique-Chimie lycée
 
-First you need to take a picture you want to chronophotography
-Then make it with the software Avimeca
-Download the txt or csv file
-Open the program and change the variable according to your file name
-Run the program
+Analyse de trajectoire à partir d'un fichier exporté d'Avimeca.
 
+## Utilisation
+* Réalisez votre chronophotographie avec Avimeca
+* Téléchargez le fichier .txt ou .csv
+* Ouvrez le fichier `main.py` et modifiez les variables selon le nom de votre fichier exporté
+* Lancez le programme.
